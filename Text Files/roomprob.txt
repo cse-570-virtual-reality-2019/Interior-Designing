@@ -1,0 +1,13 @@
+12
+SVIS wooden chair 2,0.5,0.5
+Jeffie pool table,0.8,0.1
+SVIS burlap two-seater sofa,0.7,0.9
+SVIS flatscreen TV on TV stand,0.3,0.9
+Seavenois electric guitar,0.8,0.2
+Dante grand piano,0.8,0.2
+Simon Repp leather piano bench,0.8,0.2
+DougC traditional wooden round table,0.1,0.7
+SVIS coffee table,0.1,0.8
+SVIS glass case,0.2,0.8
+Towercg modern three-seater sofa,0.1,0.9
+Jeff2207 football table,0.6,0.2

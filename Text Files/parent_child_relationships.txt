@@ -1,0 +1,7 @@
+sofa : front : tv : 1
+sofa : side : stool : 1
+wooden_round_table : all : wooden_chair : 4
+sofa : front : table : 1
+piano : front : bench : 1
+sofa : side : lamp : 1
+table : all : chair : 1

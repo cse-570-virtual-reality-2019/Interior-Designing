@@ -1,0 +1,9 @@
+plants : any : 0.2
+sofa : back : 0
+study_table : any : 0
+table : any : 0
+lamps : any : 0.2
+cabinet : any : 0
+guitar : back : 0
+urn : any : 0.2
+bookcase : back : 0
